@@ -1,9 +1,6 @@
 {
   "excludedFolders": [
     "Templates",
-    "copilot",
-    "Attachments",
-    "Changes",
-    "Tasks"
+    "Attachments"
   ]
 }
