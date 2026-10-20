@@ -1,0 +1,9 @@
+{
+  "id": "note-timestamps",
+  "name": "Auto Note Timestamps",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Automatically adds a 'date_created' property, and updates a last_modified property when a note is modified.",
+  "author": "Dante Toole",
+  "isDesktopOnly": false
+}
